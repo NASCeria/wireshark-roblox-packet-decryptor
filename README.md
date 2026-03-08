@@ -16,6 +16,8 @@ this code is pretty old and rushed,,, requires some offsets etccc
 well anyways im also working on a full roblox protocol documentation (for those that actually are interested into roblox networking ^^)
 
 
+also when youre interested into pentesting/networking feel free to message me!! i need more networkign friends!!! pls
+
 sincerely, nasec(@mrnasec on discord)
 
 
